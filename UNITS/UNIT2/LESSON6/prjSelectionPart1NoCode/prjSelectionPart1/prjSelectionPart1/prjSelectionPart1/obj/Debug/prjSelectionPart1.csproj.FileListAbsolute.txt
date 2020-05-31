@@ -1,0 +1,33 @@
+E:\temp\prjSelectionPart1\prjSelectionPart1\bin\Debug\prjSelectionPart1.exe.config
+E:\temp\prjSelectionPart1\prjSelectionPart1\bin\Debug\prjSelectionPart1.exe
+E:\temp\prjSelectionPart1\prjSelectionPart1\bin\Debug\prjSelectionPart1.pdb
+E:\temp\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.csprojResolveAssemblyReference.cache
+E:\temp\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.Form1.resources
+E:\temp\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.Properties.Resources.resources
+E:\temp\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.csproj.GenerateResource.Cache
+E:\temp\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.exe
+E:\temp\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.pdb
+F:\temp\prjSelectionPart1\prjSelectionPart1\bin\Debug\prjSelectionPart1.exe.config
+F:\temp\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.exe
+F:\temp\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.pdb
+G:\projects\prjSelectionPart1\prjSelectionPart1\bin\Debug\prjSelectionPart1.exe.config
+G:\projects\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.exe
+G:\projects\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.pdb
+G:\temp\prjSelectionPart1\prjSelectionPart1\bin\Debug\prjSelectionPart1.exe.config
+G:\temp\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.exe
+G:\temp\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.pdb
+F:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson13\prjSelectionPart1\prjSelectionPart1\prjSelectionPart1\bin\Debug\prjSelectionPart1.exe.config
+F:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson13\prjSelectionPart1\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.exe
+F:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson13\prjSelectionPart1\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.pdb
+E:\ICS\UNITS\UNIT2\LESSON6\prjSelectionPart1NoCode\prjSelectionPart1\prjSelectionPart1\prjSelectionPart1\bin\Debug\prjSelectionPart1.exe.config
+E:\ICS\UNITS\UNIT2\LESSON6\prjSelectionPart1NoCode\prjSelectionPart1\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.exe
+E:\ICS\UNITS\UNIT2\LESSON6\prjSelectionPart1NoCode\prjSelectionPart1\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.pdb
+E:\ICS\UNITS\UNIT2\LESSON6\prjSelectionPart1NoCode\prjSelectionPart1\prjSelectionPart1\prjSelectionPart1\bin\Debug\prjSelectionPart1.exe
+E:\ICS\UNITS\UNIT2\LESSON6\prjSelectionPart1NoCode\prjSelectionPart1\prjSelectionPart1\prjSelectionPart1\bin\Debug\prjSelectionPart1.pdb
+E:\ICS\UNITS\UNIT2\LESSON6\prjSelectionPart1NoCode\prjSelectionPart1\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.csprojResolveAssemblyReference.cache
+E:\ICS\UNITS\UNIT2\LESSON6\prjSelectionPart1NoCode\prjSelectionPart1\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.Form1.resources
+E:\ICS\UNITS\UNIT2\LESSON6\prjSelectionPart1NoCode\prjSelectionPart1\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.Properties.Resources.resources
+E:\ICS\UNITS\UNIT2\LESSON6\prjSelectionPart1NoCode\prjSelectionPart1\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.csproj.GenerateResource.Cache
+W:\ICS\UNITS\UNIT2\LESSON6\prjSelectionPart1NoCode\prjSelectionPart1\prjSelectionPart1\prjSelectionPart1\bin\Debug\prjSelectionPart1.exe.config
+W:\ICS\UNITS\UNIT2\LESSON6\prjSelectionPart1NoCode\prjSelectionPart1\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.exe
+W:\ICS\UNITS\UNIT2\LESSON6\prjSelectionPart1NoCode\prjSelectionPart1\prjSelectionPart1\prjSelectionPart1\obj\Debug\prjSelectionPart1.pdb

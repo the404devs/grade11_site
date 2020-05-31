@@ -1,0 +1,9 @@
+E:\ICS\UNITS\UNIT2\LESSON2\prjPropertiesAndEvents\prjPropertiesAndEvents\bin\Debug\prjPropertiesAndEvents.exe.config
+E:\ICS\UNITS\UNIT2\LESSON2\prjPropertiesAndEvents\prjPropertiesAndEvents\bin\Debug\prjPropertiesAndEvents.exe
+E:\ICS\UNITS\UNIT2\LESSON2\prjPropertiesAndEvents\prjPropertiesAndEvents\bin\Debug\prjPropertiesAndEvents.pdb
+E:\ICS\UNITS\UNIT2\LESSON2\prjPropertiesAndEvents\prjPropertiesAndEvents\obj\Debug\prjPropertiesAndEvents.csprojResolveAssemblyReference.cache
+E:\ICS\UNITS\UNIT2\LESSON2\prjPropertiesAndEvents\prjPropertiesAndEvents\obj\Debug\prjPropertiesAndEvents.Form1.resources
+E:\ICS\UNITS\UNIT2\LESSON2\prjPropertiesAndEvents\prjPropertiesAndEvents\obj\Debug\prjPropertiesAndEvents.Properties.Resources.resources
+E:\ICS\UNITS\UNIT2\LESSON2\prjPropertiesAndEvents\prjPropertiesAndEvents\obj\Debug\prjPropertiesAndEvents.csproj.GenerateResource.Cache
+E:\ICS\UNITS\UNIT2\LESSON2\prjPropertiesAndEvents\prjPropertiesAndEvents\obj\Debug\prjPropertiesAndEvents.exe
+E:\ICS\UNITS\UNIT2\LESSON2\prjPropertiesAndEvents\prjPropertiesAndEvents\obj\Debug\prjPropertiesAndEvents.pdb

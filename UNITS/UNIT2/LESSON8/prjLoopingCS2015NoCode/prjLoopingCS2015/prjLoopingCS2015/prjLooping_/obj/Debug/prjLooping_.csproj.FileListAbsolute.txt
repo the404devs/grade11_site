@@ -1,0 +1,32 @@
+E:\temp\prjLooping_\prjLooping_\bin\Debug\prjLooping_.exe
+E:\temp\prjLooping_\prjLooping_\bin\Debug\prjLooping_.pdb
+E:\temp\prjLooping_\prjLooping_\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\prjLooping_\prjLooping_\obj\Debug\prjLooping_.Form1.resources
+E:\temp\prjLooping_\prjLooping_\obj\Debug\prjLooping_.Properties.Resources.resources
+E:\temp\prjLooping_\prjLooping_\obj\Debug\prjLooping_.csproj.GenerateResource.Cache
+E:\temp\prjLooping_\prjLooping_\obj\Debug\prjLooping_.exe
+E:\temp\prjLooping_\prjLooping_\obj\Debug\prjLooping_.pdb
+F:\projects\prjLooping\prjLooping_\obj\Debug\prjLooping_.exe
+F:\projects\prjLooping\prjLooping_\obj\Debug\prjLooping_.pdb
+G:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson17\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.exe
+G:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson17\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.pdb
+G:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson17\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\bin\Debug\prjLooping_.exe
+G:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson17\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\bin\Debug\prjLooping_.pdb
+G:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson17\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.csprojResolveAssemblyReference.cache
+G:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson17\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.Form1.resources
+G:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson17\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.Properties.Resources.resources
+G:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson17\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.csproj.GenerateResource.Cache
+F:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson17\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.exe
+F:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson17\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.pdb
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson9\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.exe
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson9\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.pdb
+E:\ICS\UNITS\UNIT2\LESSON8\prjLoopingCS2015NoCode\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.exe
+E:\ICS\UNITS\UNIT2\LESSON8\prjLoopingCS2015NoCode\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.pdb
+E:\ICS\UNITS\UNIT2\LESSON8\prjLoopingCS2015NoCode\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\bin\Debug\prjLooping_.exe
+E:\ICS\UNITS\UNIT2\LESSON8\prjLoopingCS2015NoCode\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\bin\Debug\prjLooping_.pdb
+E:\ICS\UNITS\UNIT2\LESSON8\prjLoopingCS2015NoCode\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.csprojResolveAssemblyReference.cache
+E:\ICS\UNITS\UNIT2\LESSON8\prjLoopingCS2015NoCode\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.Form1.resources
+E:\ICS\UNITS\UNIT2\LESSON8\prjLoopingCS2015NoCode\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.Properties.Resources.resources
+E:\ICS\UNITS\UNIT2\LESSON8\prjLoopingCS2015NoCode\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.csproj.GenerateResource.Cache
+W:\ICS\UNITS\UNIT2\LESSON8\prjLoopingCS2015NoCode\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.exe
+W:\ICS\UNITS\UNIT2\LESSON8\prjLoopingCS2015NoCode\prjLoopingCS2015\prjLoopingCS2015\prjLooping_\obj\Debug\prjLooping_.pdb

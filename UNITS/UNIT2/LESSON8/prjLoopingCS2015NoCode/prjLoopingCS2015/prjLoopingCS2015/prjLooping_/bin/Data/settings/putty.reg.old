@@ -1,0 +1,4 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY]
+"RandSeedFile"="E:\\temp\\prjLooping\\prjLooping_\\bin\\Data\\settings\\PUTTY.RND"

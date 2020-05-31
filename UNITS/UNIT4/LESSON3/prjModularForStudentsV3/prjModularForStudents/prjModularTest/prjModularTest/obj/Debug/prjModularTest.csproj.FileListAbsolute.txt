@@ -1,0 +1,18 @@
+E:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson33\prjModularForStudents\prjModularTest\prjModularTest\obj\Debug\prjModularTest.exe
+E:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson33\prjModularForStudents\prjModularTest\prjModularTest\obj\Debug\prjModularTest.pdb
+G:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson33\prjModularForStudents\prjModularTest\prjModularTest\obj\Debug\prjModularTest.exe
+G:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson33\prjModularForStudents\prjModularTest\prjModularTest\obj\Debug\prjModularTest.pdb
+G:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson33_functionsPracticalTest\prjModularForStudents\prjModularTest\prjModularTest\obj\Debug\prjModularTest.exe
+G:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson33_functionsPracticalTest\prjModularForStudents\prjModularTest\prjModularTest\obj\Debug\prjModularTest.pdb
+E:\ICS\UNITS\UNIT4\LESSON3\prjModularForStudentsV3\prjModularForStudents\prjModularTest\prjModularTest\obj\Debug\prjModularTest.exe
+E:\ICS\UNITS\UNIT4\LESSON3\prjModularForStudentsV3\prjModularForStudents\prjModularTest\prjModularTest\obj\Debug\prjModularTest.pdb
+E:\ICS\UNITS\UNIT4\LESSON3\prjModularForStudentsV3\prjModularForStudents\prjModularTest\prjModularTest\obj\Debug\prjModularTest.csprojResolveAssemblyReference.cache
+E:\ICS\UNITS\UNIT4\LESSON3\prjModularForStudentsV3\prjModularForStudents\prjModularTest\prjModularTest\obj\Debug\prjModularTest.Form1.resources
+E:\ICS\UNITS\UNIT4\LESSON3\prjModularForStudentsV3\prjModularForStudents\prjModularTest\prjModularTest\obj\Debug\prjModularTest.Properties.Resources.resources
+E:\ICS\UNITS\UNIT4\LESSON3\prjModularForStudentsV3\prjModularForStudents\prjModularTest\prjModularTest\obj\Debug\prjModularTest.csproj.GenerateResource.Cache
+E:\ICS\UNITS\UNIT4\LESSON3\prjModularForStudentsV3\prjModularForStudents\prjModularTest\prjModularTest\bin\Debug\prjModularTest.exe
+E:\ICS\UNITS\UNIT4\LESSON3\prjModularForStudentsV3\prjModularForStudents\prjModularTest\prjModularTest\bin\Debug\prjModularTest.pdb
+W:\ICS\UNITS\UNIT4\LESSON3\prjModularForStudentsV3\prjModularForStudents\prjModularTest\prjModularTest\obj\Debug\prjModularTest.exe
+W:\ICS\UNITS\UNIT4\LESSON3\prjModularForStudentsV3\prjModularForStudents\prjModularTest\prjModularTest\obj\Debug\prjModularTest.pdb
+W:\School\11\ICS\UNITS\UNIT4\LESSON3\prjModularForStudentsV3\prjModularForStudents\prjModularTest\prjModularTest\obj\Debug\prjModularTest.exe
+W:\School\11\ICS\UNITS\UNIT4\LESSON3\prjModularForStudentsV3\prjModularForStudents\prjModularTest\prjModularTest\obj\Debug\prjModularTest.pdb

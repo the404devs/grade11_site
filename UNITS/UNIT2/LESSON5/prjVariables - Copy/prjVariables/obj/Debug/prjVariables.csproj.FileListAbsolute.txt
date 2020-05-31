@@ -1,0 +1,16 @@
+E:\ICS\UNITS\UNIT3\LESSON5\prjVariables\prjVariables\bin\Debug\prjVariables.exe.config
+E:\ICS\UNITS\UNIT3\LESSON5\prjVariables\prjVariables\bin\Debug\prjVariables.exe
+E:\ICS\UNITS\UNIT3\LESSON5\prjVariables\prjVariables\bin\Debug\prjVariables.pdb
+E:\ICS\UNITS\UNIT3\LESSON5\prjVariables\prjVariables\obj\Debug\prjVariables.csprojResolveAssemblyReference.cache
+E:\ICS\UNITS\UNIT3\LESSON5\prjVariables\prjVariables\obj\Debug\prjVariables.Form1.resources
+E:\ICS\UNITS\UNIT3\LESSON5\prjVariables\prjVariables\obj\Debug\prjVariables.Properties.Resources.resources
+E:\ICS\UNITS\UNIT3\LESSON5\prjVariables\prjVariables\obj\Debug\prjVariables.csproj.GenerateResource.Cache
+E:\ICS\UNITS\UNIT3\LESSON5\prjVariables\prjVariables\obj\Debug\prjVariables.exe
+E:\ICS\UNITS\UNIT3\LESSON5\prjVariables\prjVariables\obj\Debug\prjVariables.pdb
+E:\ICS\UNITS\UNIT3\LESSON5\prjVariables\prjVariables\obj\Debug\prjVariables.Form2.resources
+E:\ICS\UNITS\UNIT3\LESSON5\prjVariables - Copy\prjVariables\bin\Debug\prjVariables.exe.config
+E:\ICS\UNITS\UNIT3\LESSON5\prjVariables - Copy\prjVariables\obj\Debug\prjVariables.exe
+E:\ICS\UNITS\UNIT3\LESSON5\prjVariables - Copy\prjVariables\obj\Debug\prjVariables.csprojResolveAssemblyReference.cache
+E:\ICS\UNITS\UNIT3\LESSON5\prjVariables - Copy\prjVariables\obj\Debug\prjVariables.Form2.resources
+E:\ICS\UNITS\UNIT3\LESSON5\prjVariables - Copy\prjVariables\obj\Debug\prjVariables.Properties.Resources.resources
+E:\ICS\UNITS\UNIT3\LESSON5\prjVariables - Copy\prjVariables\obj\Debug\prjVariables.csproj.GenerateResource.Cache

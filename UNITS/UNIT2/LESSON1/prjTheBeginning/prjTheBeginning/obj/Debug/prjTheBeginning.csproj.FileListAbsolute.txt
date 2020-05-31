@@ -1,0 +1,10 @@
+W:\ICS\UNITS\UNIT2\LESSON1\prjTheBeginning\prjTheBeginning\bin\Debug\prjTheBeginning.exe.config
+W:\School\11\ICS\UNITS\UNIT2\LESSON1\prjTheBeginning\prjTheBeginning\bin\Debug\prjTheBeginning.exe.config
+W:\School\11\ICS\UNITS\UNIT2\LESSON1\prjTheBeginning\prjTheBeginning\bin\Debug\prjTheBeginning.exe
+W:\School\11\ICS\UNITS\UNIT2\LESSON1\prjTheBeginning\prjTheBeginning\bin\Debug\prjTheBeginning.pdb
+W:\School\11\ICS\UNITS\UNIT2\LESSON1\prjTheBeginning\prjTheBeginning\obj\Debug\prjTheBeginning.csprojResolveAssemblyReference.cache
+W:\School\11\ICS\UNITS\UNIT2\LESSON1\prjTheBeginning\prjTheBeginning\obj\Debug\prjTheBeginning.Form1.resources
+W:\School\11\ICS\UNITS\UNIT2\LESSON1\prjTheBeginning\prjTheBeginning\obj\Debug\prjTheBeginning.Properties.Resources.resources
+W:\School\11\ICS\UNITS\UNIT2\LESSON1\prjTheBeginning\prjTheBeginning\obj\Debug\prjTheBeginning.csproj.GenerateResource.Cache
+W:\School\11\ICS\UNITS\UNIT2\LESSON1\prjTheBeginning\prjTheBeginning\obj\Debug\prjTheBeginning.exe
+W:\School\11\ICS\UNITS\UNIT2\LESSON1\prjTheBeginning\prjTheBeginning\obj\Debug\prjTheBeginning.pdb

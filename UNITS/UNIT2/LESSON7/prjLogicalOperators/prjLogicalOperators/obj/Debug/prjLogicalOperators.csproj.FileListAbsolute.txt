@@ -1,0 +1,21 @@
+E:\temp\prjLogicalOperators\prjLogicalOperators\bin\Debug\prjLogicalOperators.exe
+E:\temp\prjLogicalOperators\prjLogicalOperators\bin\Debug\prjLogicalOperators.pdb
+E:\temp\prjLogicalOperators\prjLogicalOperators\obj\Debug\ResolveAssemblyReference.cache
+E:\temp\prjLogicalOperators\prjLogicalOperators\obj\Debug\prjLogicalOperators.Form1.resources
+E:\temp\prjLogicalOperators\prjLogicalOperators\obj\Debug\prjLogicalOperators.Properties.Resources.resources
+E:\temp\prjLogicalOperators\prjLogicalOperators\obj\Debug\prjLogicalOperators.csproj.GenerateResource.Cache
+E:\temp\prjLogicalOperators\prjLogicalOperators\obj\Debug\prjLogicalOperators.exe
+E:\temp\prjLogicalOperators\prjLogicalOperators\obj\Debug\prjLogicalOperators.pdb
+F:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson13\prjLogicalOperators\prjLogicalOperators\obj\Debug\prjLogicalOperators.exe
+F:\curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 2  Beginning to Program\Lesson13\prjLogicalOperators\prjLogicalOperators\obj\Debug\prjLogicalOperators.pdb
+E:\ICS\UNITS\UNIT2\LESSON7\prjLogicalOperators\prjLogicalOperators\obj\Debug\prjLogicalOperators.exe
+E:\ICS\UNITS\UNIT2\LESSON7\prjLogicalOperators\prjLogicalOperators\obj\Debug\prjLogicalOperators.pdb
+E:\ICS\UNITS\UNIT2\LESSON7\prjLogicalOperators\prjLogicalOperators\bin\Debug\prjLogicalOperators.exe
+E:\ICS\UNITS\UNIT2\LESSON7\prjLogicalOperators\prjLogicalOperators\bin\Debug\prjLogicalOperators.pdb
+E:\ICS\UNITS\UNIT2\LESSON7\prjLogicalOperators\prjLogicalOperators\obj\Debug\prjLogicalOperators.csprojResolveAssemblyReference.cache
+E:\ICS\UNITS\UNIT2\LESSON7\prjLogicalOperators\prjLogicalOperators\obj\Debug\prjLogicalOperators.Form1.resources
+E:\ICS\UNITS\UNIT2\LESSON7\prjLogicalOperators\prjLogicalOperators\obj\Debug\prjLogicalOperators.Form2.resources
+E:\ICS\UNITS\UNIT2\LESSON7\prjLogicalOperators\prjLogicalOperators\obj\Debug\prjLogicalOperators.Properties.Resources.resources
+E:\ICS\UNITS\UNIT2\LESSON7\prjLogicalOperators\prjLogicalOperators\obj\Debug\prjLogicalOperators.csproj.GenerateResource.Cache
+W:\ICS\UNITS\UNIT2\LESSON7\prjLogicalOperators\prjLogicalOperators\obj\Debug\prjLogicalOperators.exe
+W:\ICS\UNITS\UNIT2\LESSON7\prjLogicalOperators\prjLogicalOperators\obj\Debug\prjLogicalOperators.pdb

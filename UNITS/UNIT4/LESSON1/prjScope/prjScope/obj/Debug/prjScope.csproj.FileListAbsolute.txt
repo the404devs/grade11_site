@@ -1,0 +1,15 @@
+E:\ICS\UNITS\UNIT4\LESSON1\prjScope\prjScope\bin\Debug\prjScope.exe.config
+E:\ICS\UNITS\UNIT4\LESSON1\prjScope\prjScope\bin\Debug\prjScope.exe
+E:\ICS\UNITS\UNIT4\LESSON1\prjScope\prjScope\bin\Debug\prjScope.pdb
+E:\ICS\UNITS\UNIT4\LESSON1\prjScope\prjScope\obj\Debug\prjScope.csprojResolveAssemblyReference.cache
+E:\ICS\UNITS\UNIT4\LESSON1\prjScope\prjScope\obj\Debug\prjScope.Form1.resources
+E:\ICS\UNITS\UNIT4\LESSON1\prjScope\prjScope\obj\Debug\prjScope.Properties.Resources.resources
+E:\ICS\UNITS\UNIT4\LESSON1\prjScope\prjScope\obj\Debug\prjScope.csproj.GenerateResource.Cache
+E:\ICS\UNITS\UNIT4\LESSON1\prjScope\prjScope\obj\Debug\prjScope.exe
+E:\ICS\UNITS\UNIT4\LESSON1\prjScope\prjScope\obj\Debug\prjScope.pdb
+W:\ICS\UNITS\UNIT4\LESSON1\prjScope\prjScope\bin\Debug\prjScope.exe.config
+W:\ICS\UNITS\UNIT4\LESSON1\prjScope\prjScope\obj\Debug\prjScope.exe
+W:\ICS\UNITS\UNIT4\LESSON1\prjScope\prjScope\obj\Debug\prjScope.pdb
+W:\School\11\ICS\UNITS\UNIT4\LESSON1\prjScope\prjScope\bin\Debug\prjScope.exe.config
+W:\School\11\ICS\UNITS\UNIT4\LESSON1\prjScope\prjScope\obj\Debug\prjScope.exe
+W:\School\11\ICS\UNITS\UNIT4\LESSON1\prjScope\prjScope\obj\Debug\prjScope.pdb

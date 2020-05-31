@@ -1,0 +1,16 @@
+ACROSS
+1 punched card
+3 Antikythera
+6 variables
+7 coding
+source?
+10 fortran
+cobol?
+11 computer memory
+DOWN
+2 automata
+4 art
+5 assembly
+8 programmimng
+9 binary
+

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjLoops", "prjLoops\prjLoops.csproj", "{0DBAD16B-6714-4308-BF3E-A54D5E2BFEAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DBAD16B-6714-4308-BF3E-A54D5E2BFEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBAD16B-6714-4308-BF3E-A54D5E2BFEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DBAD16B-6714-4308-BF3E-A54D5E2BFEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DBAD16B-6714-4308-BF3E-A54D5E2BFEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

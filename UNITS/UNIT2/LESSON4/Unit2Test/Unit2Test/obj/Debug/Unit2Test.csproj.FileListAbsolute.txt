@@ -1,0 +1,13 @@
+E:\ICS\UNITS\UNIT2\Unit2Test\Unit2Test\bin\Debug\Unit2Test.exe.config
+E:\ICS\UNITS\UNIT2\Unit2Test\Unit2Test\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\ICS\UNITS\UNIT2\Unit2Test\Unit2Test\obj\Debug\Unit2Test.Properties.Resources.resources
+E:\ICS\UNITS\UNIT2\Unit2Test\Unit2Test\obj\Debug\Unit2Test.csproj.GenerateResource.Cache
+W:\School\11\ICS\UNITS\UNIT2\LESSON4\Unit2Test\Unit2Test\obj\Debug\Unit2Test.csprojResolveAssemblyReference.cache
+W:\School\11\ICS\UNITS\UNIT2\LESSON4\Unit2Test\Unit2Test\obj\Debug\WindowsFormsApplication1.Form1.resources
+W:\School\11\ICS\UNITS\UNIT2\LESSON4\Unit2Test\Unit2Test\obj\Debug\Unit2Test.Properties.Resources.resources
+W:\School\11\ICS\UNITS\UNIT2\LESSON4\Unit2Test\Unit2Test\obj\Debug\Unit2Test.csproj.GenerateResource.Cache
+W:\School\11\ICS\UNITS\UNIT2\LESSON4\Unit2Test\Unit2Test\bin\Debug\Unit2Test.exe.config
+W:\School\11\ICS\UNITS\UNIT2\LESSON4\Unit2Test\Unit2Test\bin\Debug\Unit2Test.exe
+W:\School\11\ICS\UNITS\UNIT2\LESSON4\Unit2Test\Unit2Test\bin\Debug\Unit2Test.pdb
+W:\School\11\ICS\UNITS\UNIT2\LESSON4\Unit2Test\Unit2Test\obj\Debug\Unit2Test.exe
+W:\School\11\ICS\UNITS\UNIT2\LESSON4\Unit2Test\Unit2Test\obj\Debug\Unit2Test.pdb

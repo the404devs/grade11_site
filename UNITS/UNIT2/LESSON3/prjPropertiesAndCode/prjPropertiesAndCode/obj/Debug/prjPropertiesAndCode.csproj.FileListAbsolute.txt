@@ -1,0 +1,9 @@
+E:\ICS\UNITS\UNIT2\LESSON3\prjPropertiesAndCode\prjPropertiesAndCode\bin\Debug\prjPropertiesAndCode.exe.config
+E:\ICS\UNITS\UNIT2\LESSON3\prjPropertiesAndCode\prjPropertiesAndCode\bin\Debug\prjPropertiesAndCode.exe
+E:\ICS\UNITS\UNIT2\LESSON3\prjPropertiesAndCode\prjPropertiesAndCode\bin\Debug\prjPropertiesAndCode.pdb
+E:\ICS\UNITS\UNIT2\LESSON3\prjPropertiesAndCode\prjPropertiesAndCode\obj\Debug\prjPropertiesAndCode.csprojResolveAssemblyReference.cache
+E:\ICS\UNITS\UNIT2\LESSON3\prjPropertiesAndCode\prjPropertiesAndCode\obj\Debug\prjPropertiesAndCode.Form1.resources
+E:\ICS\UNITS\UNIT2\LESSON3\prjPropertiesAndCode\prjPropertiesAndCode\obj\Debug\prjPropertiesAndCode.Properties.Resources.resources
+E:\ICS\UNITS\UNIT2\LESSON3\prjPropertiesAndCode\prjPropertiesAndCode\obj\Debug\prjPropertiesAndCode.csproj.GenerateResource.Cache
+E:\ICS\UNITS\UNIT2\LESSON3\prjPropertiesAndCode\prjPropertiesAndCode\obj\Debug\prjPropertiesAndCode.exe
+E:\ICS\UNITS\UNIT2\LESSON3\prjPropertiesAndCode\prjPropertiesAndCode\obj\Debug\prjPropertiesAndCode.pdb

@@ -1,0 +1,36 @@
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson37_sorting\prjBubbleSort\prjBubbleSort\bin\Debug\prjBubbleSort.exe.config
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson37_sorting\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.csprojResolveAssemblyReference.cache
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson37_sorting\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.Form1.resources
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson37_sorting\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.Properties.Resources.resources
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson37_sorting\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.csproj.GenerateResource.Cache
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson37_sorting\prjBubbleSort\prjBubbleSort\bin\Debug\prjBubbleSort.exe
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson37_sorting\prjBubbleSort\prjBubbleSort\bin\Debug\prjBubbleSort.pdb
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson37_sorting\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.exe
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson37_sorting\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.pdb
+E:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\bin\Debug\prjBubbleSort.exe.config
+E:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.exe
+E:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.pdb
+E:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\bin\Debug\prjBubbleSort.exe
+E:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\bin\Debug\prjBubbleSort.pdb
+E:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.csprojResolveAssemblyReference.cache
+E:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.Form1.resources
+E:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.Properties.Resources.resources
+E:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.csproj.GenerateResource.Cache
+W:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\bin\Debug\prjBubbleSort.exe.config
+W:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.exe
+W:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.pdb
+W:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\bin\Debug\prjBubbleSort.exe
+W:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\bin\Debug\prjBubbleSort.pdb
+W:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.csprojResolveAssemblyReference.cache
+W:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.Form1.resources
+W:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.Properties.Resources.resources
+W:\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.csproj.GenerateResource.Cache
+W:\School\11\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\bin\Debug\prjBubbleSort.exe.config
+W:\School\11\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.exe
+W:\School\11\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.pdb
+W:\School\11\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\bin\Debug\prjBubbleSort.exe
+W:\School\11\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\bin\Debug\prjBubbleSort.pdb
+W:\School\11\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.csprojResolveAssemblyReference.cache
+W:\School\11\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.Form1.resources
+W:\School\11\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.Properties.Resources.resources
+W:\School\11\ICS\UNITS\UNIT4\LESSON8\prjBubbleSort\prjBubbleSort\prjBubbleSort\obj\Debug\prjBubbleSort.csproj.GenerateResource.Cache

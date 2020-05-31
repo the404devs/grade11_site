@@ -1,0 +1,103 @@
+<html>
+	<head>
+		<title>
+			Using Selection in JavaScript
+		</title>
+
+	</head>
+	<body>
+			<script>
+			`My Variables`
+			var cpuNum = 0;
+			var userNum = 0;
+			var guesses = 0;
+			var difference = 0;
+
+			`Intro Message`
+			document.write("<h1>Sample Game Using Selection</h1>");
+			document.write("<p>Welcome to my game. I have a number between 1 and 100, can you guess it? Don't worry, I'll help you out fam.</p><hr>");
+			`Generate Random Number`
+			cpuNum = Math.round(1 + Math.random() * 99);
+				`for testing only`
+				document.write(cpuNum);
+			userNum = prompt("I have a number, what is it?");
+			guesses++;
+			document.write("<br>This is guess # " + guesses);
+			`Make sure to convert all number input from a textbox using a number function`
+			userNum = Number(userNum);
+			`Calculate the difference between the user's number and the computer's number`
+			difference=userNum-cpuNum;
+			difference=Math.abs(difference);
+			`Drop the negative from the value`
+			if(difference == 0)
+			{
+				document.write("<br>You're Correct!");
+			}
+			else if(difference <= 5)
+			{
+				document.write("<br>Your guess is HOT!")
+			} 
+			else if(difference <= 10)
+			{
+				document.write("<br>Your guess is WARM!")
+			} 
+			else
+			{
+				document.write("<br>Your guess is COLD!")
+			} 
+			userNum = prompt("I have a number, what is it?");
+			guesses++;
+			document.write("<br>This is guess # " + guesses);
+			`Make sure to convert all number input from a textbox using a number function`
+			userNum = Number(userNum);
+			`Calculate the difference between the user's number and the computer's number`
+			difference=userNum-cpuNum;
+			difference=Math.abs(difference);
+			`Drop the negative from the value`
+			if(difference == 0)
+			{
+				document.write("<br>You're Correct!");
+			}
+			else if(difference <= 5)
+			{
+				document.write("<br>Your guess is HOT!")
+			} 
+			else if(difference <= 10)
+			{
+				document.write("<br>Your guess is WARM!")
+			} 
+			else
+			{
+				document.write("<br>Your guess is COLD!")
+			} 
+			userNum = prompt("I have a number, what is it?");
+			guesses++;
+			document.write("<br>This is guess # " + guesses);
+			`Make sure to convert all number input from a textbox using a number function`
+			userNum = Number(userNum);
+			`Calculate the difference between the user's number and the computer's number`
+			difference=userNum-cpuNum;
+			difference=Math.abs(difference);
+			`Drop the negative from the value`
+			if(difference == 0)
+			{
+				document.write("<br>You're Correct!");
+			}
+			else if(difference <= 5)
+			{
+				document.write("<br>Your guess is HOT!")
+			} 
+			else if(difference <= 10)
+			{
+				document.write("<br>Your guess is WARM!")
+			} 
+			else
+			{
+				document.write("<br>Your guess is COLD!")
+			} 
+			
+		</script>
+		
+		
+	</body>
+</html>

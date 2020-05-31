@@ -1,0 +1,12 @@
+E:\ICS\UNITS\UNIT2\LESSON7\Logic Stuff\Logic Stuff\bin\Debug\Logic Stuff.exe.config
+E:\ICS\UNITS\UNIT2\LESSON7\Logic Stuff\Logic Stuff\bin\Debug\Logic Stuff.exe
+E:\ICS\UNITS\UNIT2\LESSON7\Logic Stuff\Logic Stuff\bin\Debug\Logic Stuff.pdb
+E:\ICS\UNITS\UNIT2\LESSON7\Logic Stuff\Logic Stuff\obj\Debug\Logic Stuff.csprojResolveAssemblyReference.cache
+E:\ICS\UNITS\UNIT2\LESSON7\Logic Stuff\Logic Stuff\obj\Debug\Logic_Stuff.Form1.resources
+E:\ICS\UNITS\UNIT2\LESSON7\Logic Stuff\Logic Stuff\obj\Debug\Logic_Stuff.Properties.Resources.resources
+E:\ICS\UNITS\UNIT2\LESSON7\Logic Stuff\Logic Stuff\obj\Debug\Logic Stuff.csproj.GenerateResource.Cache
+E:\ICS\UNITS\UNIT2\LESSON7\Logic Stuff\Logic Stuff\obj\Debug\Logic Stuff.exe
+E:\ICS\UNITS\UNIT2\LESSON7\Logic Stuff\Logic Stuff\obj\Debug\Logic Stuff.pdb
+W:\ICS\UNITS\UNIT2\LESSON7\Logic Stuff\Logic Stuff\bin\Debug\Logic Stuff.exe.config
+W:\ICS\UNITS\UNIT2\LESSON7\Logic Stuff\Logic Stuff\obj\Debug\Logic Stuff.exe
+W:\ICS\UNITS\UNIT2\LESSON7\Logic Stuff\Logic Stuff\obj\Debug\Logic Stuff.pdb

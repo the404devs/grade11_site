@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<title>
+			Using Variables in JavaScript
+		</title>
+		<script>
+			var initialCost = 0;
+			var taxRate = 0;
+			var taxes = 0;
+			var finalCost = 0;
+
+			initialCost=Number(prompt("What is the cost of your item?"));
+			taxRate=Number(prompt("What is the tax rate?"));
+			taxRate=taxRate/100.0;
+			taxes=initialCost+taxRate;
+			finalCost=initialCost+taxes;
+			alert("The final cost of your item is $" + finalCost);
+		</script>
+	</head>
+	<body>
+
+	</body>
+</html>

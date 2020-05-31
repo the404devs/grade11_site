@@ -1,0 +1,27 @@
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson34_StringFunctions\prjSPT\prjSPT\bin\Debug\prjSPT.exe.config
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson34_StringFunctions\prjSPT\prjSPT\bin\Debug\prjSPT.exe
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson34_StringFunctions\prjSPT\prjSPT\bin\Debug\prjSPT.pdb
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson34_StringFunctions\prjSPT\prjSPT\obj\Debug\prjSPT.csprojResolveAssemblyReference.cache
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson34_StringFunctions\prjSPT\prjSPT\obj\Debug\prjSPT.Form1.resources
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson34_StringFunctions\prjSPT\prjSPT\obj\Debug\prjSPT.Properties.Resources.resources
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson34_StringFunctions\prjSPT\prjSPT\obj\Debug\prjSPT.csproj.GenerateResource.Cache
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson34_StringFunctions\prjSPT\prjSPT\obj\Debug\prjSPT.exe
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson34_StringFunctions\prjSPT\prjSPT\obj\Debug\prjSPT.pdb
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson34_StringFunctions\prjSPTMissedTest\prjSPT\prjSPT\bin\Debug\prjSPT.exe.config
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson34_StringFunctions\prjSPTMissedTest\prjSPT\prjSPT\obj\Debug\prjSPT.exe
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson34_StringFunctions\prjSPTMissedTest\prjSPT\prjSPT\obj\Debug\prjSPT.pdb
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson34_StringFunctions\PracticalTestv3.0\prjSPT\bin\Debug\prjSPT.exe.config
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson34_StringFunctions\PracticalTestv3.0\prjSPT\obj\Debug\prjSPT.exe
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson34_StringFunctions\PracticalTestv3.0\prjSPT\obj\Debug\prjSPT.pdb
+E:\ICS\UNITS\UNIT4\LESSON5\PracticalTestv3.0\prjSPT\bin\Debug\prjSPT.exe.config
+E:\ICS\UNITS\UNIT4\LESSON5\PracticalTestv3.0\prjSPT\obj\Debug\prjSPT.exe
+E:\ICS\UNITS\UNIT4\LESSON5\PracticalTestv3.0\prjSPT\obj\Debug\prjSPT.pdb
+E:\ICS\UNITS\UNIT4\LESSON5\PracticalTestv3.0\prjSPT\bin\Debug\prjSPT.exe
+E:\ICS\UNITS\UNIT4\LESSON5\PracticalTestv3.0\prjSPT\bin\Debug\prjSPT.pdb
+E:\ICS\UNITS\UNIT4\LESSON5\PracticalTestv3.0\prjSPT\obj\Debug\prjSPT.csprojResolveAssemblyReference.cache
+E:\ICS\UNITS\UNIT4\LESSON5\PracticalTestv3.0\prjSPT\obj\Debug\prjSPT.Form1.resources
+E:\ICS\UNITS\UNIT4\LESSON5\PracticalTestv3.0\prjSPT\obj\Debug\prjSPT.Properties.Resources.resources
+E:\ICS\UNITS\UNIT4\LESSON5\PracticalTestv3.0\prjSPT\obj\Debug\prjSPT.csproj.GenerateResource.Cache
+F:\ICS\UNITS\UNIT4\LESSON5\PracticalTestv3.0\prjSPT\bin\Debug\prjSPT.exe.config
+F:\ICS\UNITS\UNIT4\LESSON5\PracticalTestv3.0\prjSPT\obj\Debug\prjSPT.exe
+F:\ICS\UNITS\UNIT4\LESSON5\PracticalTestv3.0\prjSPT\obj\Debug\prjSPT.pdb

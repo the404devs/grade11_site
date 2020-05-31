@@ -1,0 +1,45 @@
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTest\prjArrayTest\prjArrayTest\bin\Debug\prjArrayTest.exe.config
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTest\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.csprojResolveAssemblyReference.cache
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTest\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.Form1.resources
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTest\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.Properties.Resources.resources
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTest\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.csproj.GenerateResource.Cache
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTest\prjArrayTest\prjArrayTest\bin\Debug\prjArrayTest.exe
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTest\prjArrayTest\prjArrayTest\bin\Debug\prjArrayTest.pdb
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTest\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.exe
+U:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTest\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.pdb
+P:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\bin\Debug\prjArrayTest.exe.config
+P:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.exe
+P:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.pdb
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\bin\Debug\prjArrayTest.exe.config
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.exe
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.pdb
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\bin\Debug\prjArrayTest.exe
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\bin\Debug\prjArrayTest.pdb
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.csprojResolveAssemblyReference.cache
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.Form1.resources
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.Properties.Resources.resources
+E:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.csproj.GenerateResource.Cache
+G:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\bin\Debug\prjArrayTest.exe.config
+G:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.exe
+G:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.pdb
+G:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\bin\Debug\prjArrayTest.exe
+G:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\bin\Debug\prjArrayTest.pdb
+G:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.csprojResolveAssemblyReference.cache
+G:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.Form1.resources
+G:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.Properties.Resources.resources
+G:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.csproj.GenerateResource.Cache
+G:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\ArrayTestV2Students\prjArrayTest\prjArrayTest\bin\Debug\prjArrayTest.exe.config
+G:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\ArrayTestV2Students\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.exe
+G:\_curriculumStuff\COMPUTER SCIENCE\ICS3U_Grade11UniversityComputerScience\UNITS\Unit 4  Programming Part 2\Lesson41_PracticalTestArrays\ArrayTestV2Students\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.pdb
+E:\ICS\UNITS\UNIT4\practical\ArrayTestV2Students\ArrayTestV2Students\prjArrayTest\prjArrayTest\bin\Debug\prjArrayTest.exe.config
+E:\ICS\UNITS\UNIT4\practical\ArrayTestV2Students\ArrayTestV2Students\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.exe
+E:\ICS\UNITS\UNIT4\practical\ArrayTestV2Students\ArrayTestV2Students\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.pdb
+E:\ICS\UNITS\UNIT4\practical\ArrayTestV2Students\ArrayTestV2Students\prjArrayTest\prjArrayTest\bin\Debug\prjArrayTest.exe
+E:\ICS\UNITS\UNIT4\practical\ArrayTestV2Students\ArrayTestV2Students\prjArrayTest\prjArrayTest\bin\Debug\prjArrayTest.pdb
+E:\ICS\UNITS\UNIT4\practical\ArrayTestV2Students\ArrayTestV2Students\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.csprojResolveAssemblyReference.cache
+E:\ICS\UNITS\UNIT4\practical\ArrayTestV2Students\ArrayTestV2Students\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.Form1.resources
+E:\ICS\UNITS\UNIT4\practical\ArrayTestV2Students\ArrayTestV2Students\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.Properties.Resources.resources
+E:\ICS\UNITS\UNIT4\practical\ArrayTestV2Students\ArrayTestV2Students\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.csproj.GenerateResource.Cache
+F:\School\11\ICS\UNITS\UNIT4\practical\ArrayTestV2Students\ArrayTestV2Students\prjArrayTest\prjArrayTest\bin\Debug\prjArrayTest.exe.config
+F:\School\11\ICS\UNITS\UNIT4\practical\ArrayTestV2Students\ArrayTestV2Students\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.exe
+F:\School\11\ICS\UNITS\UNIT4\practical\ArrayTestV2Students\ArrayTestV2Students\prjArrayTest\prjArrayTest\obj\Debug\prjArrayTest.pdb

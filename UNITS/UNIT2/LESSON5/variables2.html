@@ -1,0 +1,34 @@
+<html>
+	<head>
+		<title>
+			Unit 2 Lesson 5
+		</title>	
+		<script>
+			var grade1 = 0;
+			var grade2 = 0;
+			var grade3 = 0;
+			var grade4 = 0;
+			var grade5 = 0;
+			var average = 0;
+			var fiveClass = Boolean(false);
+
+			grade1 = Number(prompt("What is your mark in your first class?"));
+			grade2 = Number(prompt("What is your mark in your second class?"));
+			grade3 = Number(prompt("What is your mark in your third class?"));
+			grade4 = Number(prompt("What is your mark in your fourth class?"));
+			fiveClass = Boolean(confirm("Do you have a fifth class?"))
+
+			if (fiveClass == true)
+			{
+				grade5 = Number(prompt("What is your mark in your fifth class?"));
+				average = (grade1+grade2+grade3+grade4+grade5)/5;
+				alert("Your average is\n" + average +"%")
+			}
+			else 
+			{
+				average = (grade1+grade2+grade3+grade4)/4;
+				alert("Your average is\n" + average +"%")
+			}
+	</script>
+	</head>
+</html>

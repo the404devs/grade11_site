@@ -1,0 +1,151 @@
+<html>
+	<head>
+		<title>ICS3U Homepage!</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<style>
+			h1{
+				color:darkred;
+				border-style:solid;
+				border-radius:10%;
+				
+				width:50%;
+				position:relative;
+				left:25%;
+				text-align:center;
+				cursor:wait;}
+			body{
+				background-image:url("IMAGES/star.gif");
+				color:indigo;
+			cursor:wait;}
+			img{height:;}
+			h2{
+				font-family:"Century Gothic";
+			cursor:wait;}
+			p{padding:25px;
+				border-style:solid;
+			cursor:wait;}
+			a{font-family:"old english text mt";}
+
+		</style>
+		<link rel="shortcut icon" type="image/x-icon" href="IMAGES/favicon.ico" />
+	</head>
+	<body>
+		<font face="century gothic">
+
+		<h1> 
+			<u> Owen's ICS3U Website! </u>
+		</h1>
+		Enter Password to unlock secret content: 
+		<form method="POST" action="verify.php">
+			<input type=password name="_pswd">
+			<input type="submit" onclick="Verify"()>
+		</form>
+<br>
+		(Please note that this doesn't work yet, but you can still press the button!)
+		<hr>Optimized for Windows XP! 
+		<a href = "IMAGES/XP.mp3"  >
+				<img src= "IMAGES/xp.ICO" height="20px" width="20px"> </a>
+		<- Click the icon for exclusive content!
+		<div id="body">
+		<h2>
+			<u> About Me </u>
+		</h2>
+		<p> 
+			My name is Owen, and I am, in the simplest terms, a nerd. I enjoy reading sci-fi and fantasy novels, as well as anything tech-related. I'm also a pretty decent artist, and I should probably put an example here to prove that but I've probably long since forgotten to do that.
+		</p>
+		<p>
+		My favourite novels are <i>Heir to the Empire</i> by Timothy Zahn (1991), and <i> Foundation</i> by Isaac Asimov (1951).
+		<br>
+		
+		<img allign="left" src=IMAGES/heir.jpg>
+		<img align="right" src=IMAGES/foundation.jpg>
+		</p>
+		<hr>
+		<h2>
+			<a href = UNITS/UNIT1/index.html>Unit 1</a>
+		</h2>
+
+
+		<p>
+			The first unit starts with just basic skills, focusing on hardware versus software, ergonomics, and file management.
+			<br>
+			<a href=ASSIGNMENTS/COMPLETED/Unit1Assignment/index.html>Unit 1 Assignment</a>
+			<br>
+			
+
+<hr>
+		<h2>
+			<a href = UNITS/UNIT2/index.html>Unit 2</a>
+		</h2>
+		<p>
+			In the second unit, we begin to look at programming, using testing, validating, and documenting skills to solve problems. 
+
+			<hr>
+		<h2>
+			<a href = UNITS/UNIT3/index.html>Unit 3</a>
+		</h2>
+
+		<p>
+			The third unit brings an increased focus on problem solving, as well as an exploration of careers in computer studies. We also look at issues such as privacy, security, and ethical use of information.
+			<hr>
+		<h2>
+			<a href = UNITS/UNIT4/index.html>Unit 4</a>
+		</h2>
+
+		<p>
+			Unit four focuses on more advanced programming, data storage and data manipulation. This unit introduces concepts such as arrays and algorithms.
+			<hr>
+		<h2>
+			<a href = UNITS/UNIT5/index.html>Unit 5</a>
+		</h2>
+
+		<p>
+			Unit five is a compilation of all that we have learned this semester. We will create an application including many of the concepts taught in the course. This project is worth 15% of our final grade.
+			
+		<hr>
+		<h2>
+			<u> Marking </u>
+		</h2>
+		<p><b><u>Final marks will be calculated as follows:</b></u>
+
+			<p><b>Term Work: 70% </b>
+			<p>Knowledge and Understanding: 25%			 
+			<p>Application: 25% 				     	 
+			<p>Thinking: 10%						 
+			<p>Communication: 10% 					 
+			<p><b>Final Summative Evaluations: 30%</b>
+			<p>Final Programming Project 15%
+			<p>June Examination 15%
+
+			
+			<hr>
+			<h2>
+				<u> Assignments </u>
+			</h2>
+			
+				<a href = ASSIGNMENTS/index.html>Assignments</a>
+				
+
+			<hr>
+				<img src="IMAGES/cs.jpg">
+
+				
+		</font>
+		</div>
+		
+		<script type="text/javascript">
+			
+		$(document).ready (function (){
+			$(body).hide();
+		})
+
+		(function Verify () {
+			if($("#passwd").text ( == "pass"){
+				$("body").show();
+			})
+		}
+
+		</script>
+		
+	</body>
+</html>

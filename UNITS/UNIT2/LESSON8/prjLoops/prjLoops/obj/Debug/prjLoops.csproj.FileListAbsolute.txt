@@ -1,0 +1,13 @@
+E:\ICS\UNITS\UNIT2\LESSON8\prjLoops\prjLoops\bin\Debug\prjLoops.exe.config
+W:\ICS\UNITS\UNIT2\LESSON8\prjLoops\prjLoops\bin\Debug\prjLoops.exe.config
+W:\School\11\ICS\UNITS\UNIT2\LESSON8\prjLoops\prjLoops\bin\Debug\prjLoops.exe.config
+W:\School\11\ICS\UNITS\UNIT2\LESSON8\prjLoops\prjLoops\bin\Debug\prjLoops.exe
+W:\School\11\ICS\UNITS\UNIT2\LESSON8\prjLoops\prjLoops\bin\Debug\prjLoops.pdb
+W:\School\11\ICS\UNITS\UNIT2\LESSON8\prjLoops\prjLoops\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+W:\School\11\ICS\UNITS\UNIT2\LESSON8\prjLoops\prjLoops\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+W:\School\11\ICS\UNITS\UNIT2\LESSON8\prjLoops\prjLoops\obj\Debug\prjLoops.csprojResolveAssemblyReference.cache
+W:\School\11\ICS\UNITS\UNIT2\LESSON8\prjLoops\prjLoops\obj\Debug\prjLoops.Form1.resources
+W:\School\11\ICS\UNITS\UNIT2\LESSON8\prjLoops\prjLoops\obj\Debug\prjLoops.Properties.Resources.resources
+W:\School\11\ICS\UNITS\UNIT2\LESSON8\prjLoops\prjLoops\obj\Debug\prjLoops.csproj.GenerateResource.Cache
+W:\School\11\ICS\UNITS\UNIT2\LESSON8\prjLoops\prjLoops\obj\Debug\prjLoops.exe
+W:\School\11\ICS\UNITS\UNIT2\LESSON8\prjLoops\prjLoops\obj\Debug\prjLoops.pdb

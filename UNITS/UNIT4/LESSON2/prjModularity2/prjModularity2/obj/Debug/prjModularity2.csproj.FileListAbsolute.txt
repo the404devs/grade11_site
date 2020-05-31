@@ -1,0 +1,12 @@
+E:\ICS\UNITS\UNIT4\LESSON2\prjModularity2\prjModularity2\bin\Debug\prjModularity2.exe.config
+E:\ICS\UNITS\UNIT4\LESSON2\prjModularity2\prjModularity2\obj\Debug\prjModularity2.csprojResolveAssemblyReference.cache
+E:\ICS\UNITS\UNIT4\LESSON2\prjModularity2\prjModularity2\obj\Debug\prjModularity2.Form1.resources
+E:\ICS\UNITS\UNIT4\LESSON2\prjModularity2\prjModularity2\obj\Debug\prjModularity2.Properties.Resources.resources
+E:\ICS\UNITS\UNIT4\LESSON2\prjModularity2\prjModularity2\obj\Debug\prjModularity2.csproj.GenerateResource.Cache
+E:\ICS\UNITS\UNIT4\LESSON2\prjModularity2\prjModularity2\bin\Debug\prjModularity2.exe
+E:\ICS\UNITS\UNIT4\LESSON2\prjModularity2\prjModularity2\bin\Debug\prjModularity2.pdb
+E:\ICS\UNITS\UNIT4\LESSON2\prjModularity2\prjModularity2\obj\Debug\prjModularity2.exe
+E:\ICS\UNITS\UNIT4\LESSON2\prjModularity2\prjModularity2\obj\Debug\prjModularity2.pdb
+W:\ICS\UNITS\UNIT4\LESSON2\prjModularity2\prjModularity2\bin\Debug\prjModularity2.exe.config
+W:\ICS\UNITS\UNIT4\LESSON2\prjModularity2\prjModularity2\obj\Debug\prjModularity2.exe
+W:\ICS\UNITS\UNIT4\LESSON2\prjModularity2\prjModularity2\obj\Debug\prjModularity2.pdb
