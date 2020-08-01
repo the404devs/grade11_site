@@ -2,4 +2,4 @@
 
 You know, I guess this is my first webpage. Cool.
 
-https://the404devs.github.io/grade11_site/
+https://ics11.the404.nl
